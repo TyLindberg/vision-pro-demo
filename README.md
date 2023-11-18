@@ -7,7 +7,9 @@ the user's physical space a 3D "video library" to explore, giving the user an ad
 
 ## Demo Video
 
+https://github.com/TyLindberg/vision-pro-demo/assets/12196053/b3755b76-ec4c-4448-bed3-e1ebc3e111b7
 
+(Please excuse the low quality. Unfortunately the VNC server was limited to 1024x768.)
 
 ## Results
 
